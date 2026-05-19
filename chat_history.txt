@@ -1,0 +1,8 @@
+You: yo
+Them: yo
+You: yo
+Them: yo
+[2026-05-19 16:57:58] You: hello
+[2026-05-19 16:57:58] Them: hello
+[2026-05-19 16:58:03] You: yo
+[2026-05-19 16:58:03] Them: yo
